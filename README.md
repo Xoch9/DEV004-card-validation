@@ -12,17 +12,21 @@ Esta dirigido a madres y padres de familia, a profesores y personas que se dediq
 
 En la páginapueden encontrat las áreas de desarrollo de niñas y niños que s muy útil para realizar planeaciones de profesores (pienso profundizar y poner ejemplos de juego para cada edad), y contiene propuesta de juguete para cada etapa que puede ser útilpara dar un regalo o hacer la carta a Santa Claus con juguetes que estimulen.
 
+# ** USO **  
 
-Asegúrate de que tu trabajo cumple con los criterios de aceptación mínimos:
+Se puede entrar a la aplicación y ver los juguetes que se necesitan para donar, tiene una caja de texto para que loingrese y se manda en automatico una respuesta de validación que realicé utilizando el algoritmo de Luhn, que dice si es válida, tuve  que utilizar Array para dividir el string para separar los números y hacer las operaciones, en la marte b use Maskify para enmascarar los números que solicitaba el Readme, y por último el estilo.
+Se muestra una pagina con una imagen de unaludoteca, tiene el nombre de la ludoteca y contiene una tabla que tiene movimiento cuando se coloca el puntero en una celda, utilicé una paleta de colores para que se viera mas uniforme.
 
-* [ ] Tiene una interfaz que permite a la usuaria saber si la tarjeta es valida.
-* [ ] Seoculta el número de tarjeta esxcepto los 4 últimos digitos.
-* [ ] El proyecto será entregado incluyendo pruebas unitarias de los métodos de
+Cumple con los criterios de aceptación mínimos:
+
+* [ x ] Tiene una interfaz que permite a la usuaria saber si la tarjeta es valida.
+* [ x ] Seoculta el número de tarjeta esxcepto los 4 últimos digitos.
+* [ x ] El proyecto será entregado incluyendo pruebas unitarias de los métodos de
   `validator` (`isValid` y `maskify`).
-* [ ] El proyecto será entregado libre de _errores_ de `eslint` (_warnings_ son ok).
-* [ ] El proyecto será entregado subiendo tu código a GitHub.
-* [ ] La interfaz será "desplegada" usando GitHub Pages.
-* [ ] El README contiene una definición del producto.
+* [ x ] El proyecto será entregado libre de _errores_ de `eslint` (_warnings_ son ok).
+* [ x ] El proyecto será entregado subiendo tu código a GitHub.
+* [ x ] La interfaz será "desplegada" usando GitHub Pages.
+* [ x ] El README contiene una definición del producto.
 
 
 
