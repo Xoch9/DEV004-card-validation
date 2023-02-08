@@ -1,6 +1,6 @@
 # Tarjeta de crédito válida
 
-# Tarjeta de crédito válida
+
 
 Existen fundaciones en México que se dedican a luchar para disminuir los problemas sociales, una de las pricipales actividades dentrode una A.C, es la procuración de fondos, generalemente se hace de persona a persona pero el no estar tecnológicamente actualizado,provoca que se pierdan posibles donantes o prospectos.
 Este proyecto lo hice ya que hace 1 año se cerró una fundación que daba educación,alimentacion y salúd a cientosde niñas y niñas en situacion de vulnerabilidad y una de las causas fue la falta de donativos, tuvimos siempre en mente hacer una página de internet en dónde las personas conocieran a la fundación y pudieran hacer sus donativos, pero no se tenían los recursos, hoy entrego este proyecto como homenaje a aquellos colaboradores y usuarios que durante 22 años lucharon por Un Mañana mejor.
